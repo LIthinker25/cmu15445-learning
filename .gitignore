@@ -1,5 +1,4 @@
-hello
-calculator
-variables
-*.o
-*.out
+*
+!*.cpp
+!*.md
+!.gitignore
