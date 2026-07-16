@@ -1,3 +1,4 @@
+// Day3(7.15): 冒泡排序，引用传递vector实现原地排序，优化内层循环边界减少无效比较
 #include<iostream>
 #include<vector>
 using namespace std;
