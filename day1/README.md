@@ -6,3 +6,5 @@ C++环境搭建，变量类型练习，四则运算练习
 - hello.cpp：Hello World测试
 - variables.cpp：变量类型声明练习(int/double/char/string/bool)
 - calculator.cpp：四则运算练习(cin输入+运算)
+---
+Day1完成时间：2025-07-13
