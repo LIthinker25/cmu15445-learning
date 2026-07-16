@@ -1,3 +1,4 @@
+// Day1(7.13): 变量类型练习，声明并输出int/double/char/string/bool五种基本类型
 #include<iostream>
 #include<string>
 using namespace std;
