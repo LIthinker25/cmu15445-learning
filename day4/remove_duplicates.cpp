@@ -1,3 +1,4 @@
+// Day4(7.16): 有序数组原地去重，双指针同向移动实现
 #include<iostream>
 #include<vector>
 using namespace std;
