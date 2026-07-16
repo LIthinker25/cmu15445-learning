@@ -1,3 +1,4 @@
+// Day2(7.14): 1到N累加和，for循环实现
 #include<iostream>
 using namespace std;
 

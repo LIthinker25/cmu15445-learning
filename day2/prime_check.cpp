@@ -1,3 +1,4 @@
+// Day2(7.14): 质数判断，修复n=1边界问题，优化为i*i<=n避免浮点误差，加入break提升效率
 #include<iostream>
 using namespace std;
 

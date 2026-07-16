@@ -1,3 +1,4 @@
+// Day2(7.14): 斐波那契数列数组优化版，用vector避免递归重复计算，修复数组越界问题
 #include<iostream>
 #include<vector>
 using namespace std;
